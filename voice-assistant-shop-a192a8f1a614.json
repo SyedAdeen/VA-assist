@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "voice-assistant-shop",
+  "private_key_id": "a192a8f1a614b3a3b2394f5de8dc7a8253b5cad5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCx22Ok1+J+iu0I\nPFiblA+WGzSkMjAGcEP7NK1U6BxoaWx7DLoCKurGNxgMED4sBwOKFOp7i5G75ZOA\nWS0Mt4eXjGKb/V1Rg2DuF432WWjmLICklvH//hJJ0LR57WsSCzu9akIgbGQeCnl1\n50S26eAXqhhEx2nRrZCChvAB2uCqjg/Ogv/NgD2iMFOpXNXYxZN0HQV8w/AhUb6p\niY23SWeJjUP0XypJa8RfPB0Ox5Y4yyegVnHZ1KScka7GNUTmFVHoiuSccfg02dXa\n3s1lG7LFOJEq5rml2YV8w2s0hIlphqQEniJFIng859ftH+3elqr7bArzJXTOC3uM\noeG7ODHFAgMBAAECggEACRHU/Pz9UdKnz7m0Ewrz2IW+o3jjthBXhyHijOfhOvnV\nTFkTyzSBEGaS1VqmsPwSlCII6w/s+JX2dZ8WiwV45qOEC8xZy+RVNw8AcEWS8dnn\nHX2NDa7ZI+Z+rZEL2rmz7C7U/G5KlLWYCAkpGeLHSK2l2ywIG2csbVuQNagBuPC7\nw7kQ2zhZUc9nH3zVvGTJRBeGLNHpBNW/w2ysgYUTGoRDxardv7Rqujyp2QLRkq5d\n7d30VzsUJG8w1+YD3+bgx7BI94m44jzxHQVsFQG/Oo+bRu384qTuLy0QHE75Y7LS\nGpmD5Yq5uIACi//xB72Jt0PIy8nKjHwpw6wCzanoqQKBgQDrTKAsSmnisRpdmY1X\n/THnBaeEIBd6A33MzJoIfIYcDkipjYl16oRBGr4YDdtWRUVQ1KSh3uPXv3SdEzTZ\nU2p2xA9dddp+asO6v+CEWzyRUHcShKNuDnmoo147r1bHtlehX9lavlheQdj+vkwc\nSjgLbzDQsJ2sgVtXs7r0Uwf5GwKBgQDBgQ5xv1tBMRGZnOmYa7MbIQgZT8xW9aFX\npvmjFsroPPaZ8oF9BWv/xTpzfKikpKDos83VGSpzvNbODcjTS/vY9EutxWi3iGBO\nH9rPq4MxDx6AI/HOYIrZUUGyjkmpmIKsb3vRQB2nI4Ycvn5A1A7YyKGPx3bniBNl\nRusHBD8OnwKBgBYfpEfFz2LjKAl48JM/WTvRikigA9UTEvb4ndsCalGk/iwDBNOz\ncy/z5b+5PdBEvxm0hK47mMymUb6bGbL9Zts34AH3nM2aGEEs3V1UfsNi/28cTYmB\njurOQYP3Hn+0o1SnAHbJwuFJ6684EUvvpolcsQhOMuUPXJlIauGiFPPVAoGAFLlo\nvZ/7+whxVR1sG0n1ncM05dkZDnsyM3wLon7vbl4RHz3MxoINJhCOiQ3h1fhXz3Rq\naBdQ56Ji8yCg0JiDuaG4dTz+USHHBrb8rV82JsvyvVCcNjk6xbmhKql4lDRkUmmC\nPk/6nQr98xgn13Oev3MFcquvPW7ifOdShqbaxgsCgYAty/ld4P24WOYVo/5Vm49y\nmM5ETEa1X38Vea/dxGdKkvx7cpum+T0wQ+h2Mr9xwv9m/tXm6bN35i+3homdsujh\nvXRv4WJX+r5UH15/sFLfFEs1hXkduA55n8WxLM4PWFqm3EqSk5hw1gJaLR7okPZX\nl8M0EZ5vHUDgfLQBzlxw8Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "va-assistant@voice-assistant-shop.iam.gserviceaccount.com",
+  "client_id": "108816065231713576106",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/va-assistant%40voice-assistant-shop.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
